@@ -1,0 +1,16 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+
+.blog-title{
+    padding: 2.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.hidden{
+    height: 0;
+    width: 0;
+    opacity: 0;
+    overflow: hidden;
+}
